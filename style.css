@@ -1,0 +1,26 @@
+.paragraph{
+    font-size: 20px;
+    transition: font-size 0.5s;
+      }
+      .paragraph:hover{
+    font-size:21px ;
+      } 
+      
+    .about{
+      height: 25px;
+      width: 70px;
+      margin-left:20px;
+      background-color:rgb(25, 218, 25);
+      color:rgb(57, 100, 9);
+      border-style:solid;
+      border:none;
+      border-radius:12px;
+      transition:background-color 0.5s,color 0.5s;
+    }
+    .about:hover{
+    background-color:rgb(57, 100, 9);; 
+    color:rgb(25, 218, 25);;
+    
+    }
+
+
